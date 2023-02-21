@@ -12,4 +12,5 @@ preprocessing_queue = [
     preprocessing.dot_reduction,
     preprocessing.connect_lines,
 ]
+site_name = "Deves.co.th"
 use_anonymous = True
